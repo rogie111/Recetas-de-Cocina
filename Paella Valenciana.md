@@ -64,9 +64,6 @@
   <br>
     5. Reposar y servir: Una vez cocido el arroz, retira del fuego y deja reposar unos minutos antes de servir. ¡Listo para disfrutar!
 </p>
-      <img src="tiposDeTirosEnElBaloncesto.jpg" alt="Imagen 1" style="margin-right: 10px; height="400" width="600"/>
-      <img src="image-c3b9ba70-e667-47b4-9c85-4df850d97e21-85-2560-1440.jpeg" alt="Imagen 2" style="margin-right: 20px; height="500" width="700"/> <br>
-      <br>
       <a href="Índice.md"><p>Índice</p></a>
   </body>
 </html>
