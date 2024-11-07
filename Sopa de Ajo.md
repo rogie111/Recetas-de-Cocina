@@ -56,9 +56,6 @@
   <br>
     6. Servir: Sirve la sopa bien caliente, con un poco de pimienta recién molida y, si se desea, un chorrito de aceite de oliva virgen extra. Es perfecta para días fríos o como entrante en una comida especial.
 </p>
-      <img src="tiposDeTirosEnElBaloncesto.jpg" alt="Imagen 1" style="margin-right: 10px; height="400" width="600"/>
-      <img src="image-c3b9ba70-e667-47b4-9c85-4df850d97e21-85-2560-1440.jpeg" alt="Imagen 2" style="margin-right: 20px; height="500" width="700"/> <br>
-      <br>
         <a href="Índice.md"><p>Índice</p></a>
   </body>
 </html>        
