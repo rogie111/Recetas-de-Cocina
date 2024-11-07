@@ -24,7 +24,6 @@
       }
   </style>
 </head>
-
   <body>
     <h1 style="display: inline-block;border:1px solid lightgray;">Curry de Pollo con Arroza Basmati</h1>
     <h2> Ingredientes: </h2>
