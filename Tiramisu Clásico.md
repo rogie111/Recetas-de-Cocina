@@ -51,9 +51,6 @@
   <br>
     4. Refrigerar: Deja el tiramisú en la nevera durante al menos 4 horas. Antes de servir, espolvorea con cacao en polvo.
 </p>
-      <img src="tiposDeTirosEnElBaloncesto.jpg" alt="Imagen 1" style="margin-right: 10px; height="400" width="600"/>
-      <img src="image-c3b9ba70-e667-47b4-9c85-4df850d97e21-85-2560-1440.jpeg" alt="Imagen 2" style="margin-right: 20px; height="500" width="700"/> <br>
-      <br>
         <a href="Índice.md"><p>Índice</p></a>
   </body>
 </html>        
