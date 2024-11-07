@@ -51,15 +51,13 @@
 <br>
     2. Sofreír el pollo: En una sartén grande, calienta aceite y sofríe el pollo hasta que esté dorado. Retíralo y resérvalo.
 <br>
-
     3. Hacer la salsa: En la misma sartén, añade la cebolla, el ajo y el jengibre. Cocina hasta que estén dorados. Añade el curry en polvo y mezcla bien. Incorpora la leche de coco y cocina a fuego lento durante 10 minutos.
 <br>
-
     4. Cocinar el arroz: Mientras tanto, hierve el arroz basmati en agua con sal siguiendo las instrucciones del paquete.
 <br>
-
     5. Finalizar el curry: Añade el pollo dorado a la salsa de curry y cocina todo junto unos 10 minutos más. Sirve el curry de pollo sobre el arroz basmati.
 </p>
       <img src="tiposDeTirosEnElBaloncesto.jpg" alt="Imagen 1" style="margin-right: 10px; height="400" width="600"/>
       <img src="image-c3b9ba70-e667-47b4-9c85-4df850d97e21-85-2560-1440.jpeg" alt="Imagen 2" style="margin-right: 20px; height="500" width="700"/> <br>
       <br>
+        <a href="Índice.md"><p>Índice</p></a>
