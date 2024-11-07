@@ -30,7 +30,7 @@
     <a href="Paella Valenciana.md"><p>1. Paella Valenciana</p></a>
     <a href="Enchiladas Verdes.md"><p>2. Enchiladas Verdes</p></a>
     <a href="Curry de Pollo con Arroz Basmati.md"><p>3. Curry de Pollo con Arroza Basmati</p></a>
-    <a href="Paella Valenciana.md"><p>4. Sopa de Ajo</p></a>
+    <a href="Sopa de Ajo.md"><p>4. Sopa de Ajo</p></a>
     <a href="Paella Valenciana.md"><p>5. Tiramisu Clásico</p></a>
   </body>
 </html>
