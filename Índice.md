@@ -28,9 +28,13 @@
   <body>
     <h1 style="display: inline-block;border:1px solid lightgray;"> Recetas De Cocina</h1>
     <p>             1. Paella Valenciana
+      <br>
                     2. Enchiladas Verdes
+      <br>
                     3. Curry de Pollo con Arroz Basmati
+      <br>
                     4. Sopa de Ajo
+      <br>
                     5. Tiramisu Clásico
 </p>
       <img src="tiposDeTirosEnElBaloncesto.jpg" alt="Imagen 1" style="margin-right: 10px; height="400" width="600"/>
