@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
+  <title>Curry de Pollo con Arroza Basmati</title>
+  <style>
       body {
         color: white;
         background-color: #333;
