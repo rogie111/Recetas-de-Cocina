@@ -26,7 +26,7 @@
 </head>
 
   <body>
-    <h1 style="display: inline-block;border:1px solid lightgray;"> Paella Valenciana</h1>
+    <h1 style="display: inline-block;border:1px solid lightgray;"> Enchiladas Verdes</h1>
     <h2> Ingredientes: </h2>
 <p> • 12 tortillas de maíz
 <br>
